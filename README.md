@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm PanosG</h1>
 <h3 align="center">A passionate Web Developer and Designer from Greece</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=panosgeor12" alt="panosgeor12" /></a> </p>
-
 - 🔭 I’m currently working on **My Studies**
 
 - 🌱 I’m currently learning **PHP, React**
