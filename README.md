@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My Studies**
 
-- 🌱 I’m currently learning **PHP, React**
+- 🌱 I’m currently learning **PHP, Laravel, React**
 
 - 👨‍💻 All of my projects are available at [https://panosgeorgaris.rf.gd](https://panosgeorgaris.rf.gd)
 
