@@ -1,15 +1,13 @@
 # Hi 👋, I'm PanosG
 ## A passionate Web Developer and Designer from Greece
 
-- 🔭 I’m currently working on **My Studies**
-
-- 🌱 I’m currently learning **PHP, Laravel, React**
+- 🔭 I’m currently preparing for Euroskills 2025 in Herning
 
 - 👨‍💻 All of my projects are available at [https://panosgeorgaris.rf.gd](https://panosgeorgaris.rf.gd)
 
 - 📫 How to reach me **panagiotisgeorgaris12@gmail.com**
 
-- ⚡ Fun fact **I like to do problem solving and helping others**
+- ⚡ Fun fact **Im good at problem solving and helping others**
 
 
 ## 🌐 Socials:
