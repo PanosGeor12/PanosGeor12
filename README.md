@@ -14,7 +14,13 @@
 ###
 
 <div align="center">
-  <img src="assets/12 09EuroSkillsHerning2025WebDevelopmentPhoto-AndersWiuff-WorldSkillsEuropeEurope-4809.jpg" width ="600"/>
+  <ficture>
+    <img src="assets/12 09EuroSkillsHerning2025WebDevelopmentPhoto-AndersWiuff-WorldSkillsEuropeEurope-4809.jpg"  width ="600"/>
+    <figcaption>
+      <p>Photo: Anders Wiuff - WorldSkills Europe | Euroskills Herning 2025 - Web Development (Skill 17) 
+      </p>
+    </figcaption>
+  </figure>
 </div>
 
 ###
@@ -35,6 +41,7 @@
 </div>
 
 ###
+
 <h2>Tech Stack</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
